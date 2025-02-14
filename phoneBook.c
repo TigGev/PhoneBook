@@ -14,6 +14,7 @@
 #define EMAIL_LENGTH 50
 #define MAX_CONTACT_COUNT 300
 
+//phonebook in c
 
 typedef struct {
     char name[NAME_LENGTH];
