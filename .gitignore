@@ -1,0 +1,19 @@
+# Build directory
+/build/
+
+# Object files
+*.o
+
+# Executables
+*.exe
+*.out
+PhoneBook
+
+# Editor/OS junk files
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Backup files
+*~
